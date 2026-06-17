@@ -22,3 +22,8 @@
 
 ##Python Modules
 ->NumPy 
+->Pandas
+
+##Matplotlib
+##Seaborn
+
